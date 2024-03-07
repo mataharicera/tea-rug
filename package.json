@@ -12,5 +12,10 @@
     "resso": "^0.17.0",
     "tea-helper": "^1.2.2",
     "tea-serv": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mataharicera/tea-rug.git"
+  },
+  "homepage": "https://github.com/mataharicera/tea-rug#readme"
 }
